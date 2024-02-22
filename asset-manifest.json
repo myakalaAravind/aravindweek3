@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/aravindweek3/static/css/main.ff02f4b5.css",
+    "main.js": "/aravindweek3/static/js/main.74d67141.js",
+    "static/js/453.239c06e6.chunk.js": "/aravindweek3/static/js/453.239c06e6.chunk.js",
+    "index.html": "/aravindweek3/index.html",
+    "main.ff02f4b5.css.map": "/aravindweek3/static/css/main.ff02f4b5.css.map",
+    "main.74d67141.js.map": "/aravindweek3/static/js/main.74d67141.js.map",
+    "453.239c06e6.chunk.js.map": "/aravindweek3/static/js/453.239c06e6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ff02f4b5.css",
+    "static/js/main.74d67141.js"
+  ]
+}
